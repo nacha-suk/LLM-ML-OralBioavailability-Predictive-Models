@@ -1,4 +1,4 @@
-# LLM-ML-OralBioavailability-Predictive-Models
+# LLM-ML-Oral-Bioavailability-Predictive-Models
 
 ## Integrating LLM-Accelerated Data Acquisition with Explainable ML to Predict Pharmacokinetic Parameters ($AUC, C_{max}, T_{max}$)
 
